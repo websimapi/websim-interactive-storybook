@@ -8,8 +8,8 @@ let currentPage = 0;
 const storyData = [
   {
     text: "Welcome to the start of our story!",
-    image: "", 
-    sound: ""  
+    image: "assets/storybook_welcome.png", 
+    sound: "assets/welcome_chime.wav"  
   }
 ];
 
